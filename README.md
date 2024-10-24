@@ -11,7 +11,7 @@ https://stats.premierlacrosseleague.com/pll-team-table
 I've chosen to analyze Premier Lacrosse League scoring data from the past three years, focusing on regular season and postseason play for the eight teams in the PLL organization. Through this analysis, I was able to visualize the significant impact of scoring trends on teams' success in the league. The goal of this project was to highlight the scoring trends of all eight teams and identify the patterns of those that have been more successful in postseason play.
 
 # Data Preparation 
-I chose this dataset to analyze becasue of the variety of statistics that it provided, also the data provided was clean and easy to manipulate. The data provided had 29 columns of various game statistics for all eight teams playing in the league. I was able to doenload the data for 2022 - 2024 regular season and then 2022 - 2024 post-season. I was able to create connections between the tables,, as shown below, in order to show relations and manipulate the data accurately. 
+I selected this dataset for analysis due to its diverse range of statistics and the clarity of the data, which made it easy to work with. The dataset includes 29 columns of various game statistics for all eight teams in the league. I downloaded the data for both the regular seasons (2022–2024) and the postseason (2022–2024). By establishing connections between the tables, as demonstrated below, I was able to illustrate relationships and manipulate the data effectively.
 
 ![connections](https://github.com/user-attachments/assets/40c77a1b-7611-400c-9f41-0e8dcc48489e)
 
